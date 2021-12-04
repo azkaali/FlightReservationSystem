@@ -1,0 +1,15 @@
+Serial no.	Source		Destination	 DepartureDate	ArrivalDate	 DepartureTime	 ArrivalTime	Flight no. 	Flight Type   
+1. 		Islamabad	Karachi		 19/11/2021	19/11/2021	 16:00:00	 18:00:00	100		Economy
+2. 		Peshawar	Quetta		 19/11/2021	19/11/2021	 19:00:00	 21:00:00	101		Business
+3. 		Sibbi		Gwadar		 19/11/2021	19/11/2021	 16:00:00	 18:00:00	102		Economy
+4. 		Larkana 	Karachi		 19/11/2021	19/11/2021	 19:00:00	 21:00:00	103		Business
+5. 		Islamabad	Gilgit		 19/11/2021	19/11/2021	 16:00:00	 18:00:00	104		Economy
+6. 		Nwabsha		Karachi		 19/11/2021	19/11/2021	 19:00:00	 21:00:00	105		Business
+7. 		Islamabad	Karachi		 19/11/2021	19/11/2021	 16:00:00	 18:00:00	106		Economy
+8. 		Islamabad	Mardan		 19/11/2021	19/11/2021	 19:00:00	 21:00:00	107		Business
+9. 		Islamabad	Karachi		 19/11/2021	19/11/2021	 16:00:00	 18:00:00	108		Economy
+10. 		Lahore		Karachi		 19/11/2021	19/11/2021	 19:00:00	 21:00:00	109		Business
+11. 		Islamabad	Kohat		 19/11/2021	19/11/2021	 16:00:00	 18:00:00	110		Economy
+12. 		Hyderabad	Karachi		 19/11/2021	19/11/2021	 19:00:00	 21:00:00	111		Business
+13. 		Islamabad	Multan		 19/11/2021	19/11/2021	 16:00:00	 18:00:00	112		Economy
+14. 		Islamabad	Karachi		 19/11/2021	19/11/2021	 19:00:00	 21:00:00	113		Business
